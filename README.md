@@ -4,7 +4,7 @@
 <hr/>
 <br/>
 
-### 연락하고싶으시면 아래로 편하게 연락주세요 :)
+#### 연락하고싶으시면 아래로 편하게 연락주세요 :)
 
 
 <a href="https://www.instagram.com/L_hw0801/" target="_blank">
@@ -37,7 +37,7 @@ const 자기소개 = {
 <br/>
 <hr/>
 <br/>
-## **:clipboard: Once I've Used**
+### **:clipboard: Once I've Used**
 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
