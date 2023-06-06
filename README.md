@@ -59,6 +59,7 @@ const 자기소개 = {
 <img src="https://img.shields.io/badge/react--querty-ff4154.svg?style=flat-square&logo=react-query&logoColor=white"/>
 
 <hr/>
+
    **backend :**
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
