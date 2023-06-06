@@ -26,6 +26,8 @@ const 자기소개 = {
 <hr/>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyeonu&layout=compact)](https://github.com/leehyeonu)
+
    **좋아하는 언어 :**
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
