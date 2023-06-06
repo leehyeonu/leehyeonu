@@ -8,6 +8,10 @@
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imjustStudent@protonmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
+<br/>
+<hr/>
+<br/>
+
 ```
 const 자기소개 = {
   이름: '이현우',
@@ -18,11 +22,18 @@ const 자기소개 = {
 }
 ```
 
+<br/>
+<hr/>
+<br/>
+
    **좋아하는 언어 :**
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typecript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90-blue"/><span style="font-size: 5px">이 언어는 좀 칩니다..</span>
 
+<br/>
+<hr/>
+<br/>
 
    **프론트엔드 스택 :**
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
