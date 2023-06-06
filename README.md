@@ -60,7 +60,7 @@ const 자기소개 = {
 <hr/>
 
    **backend :**
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
