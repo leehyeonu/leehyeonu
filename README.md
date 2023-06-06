@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/L_hw0801/" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=social&logo=instagram&logoColor=#E4405F"/></a>
 <!--
 **leehyeonu/leehyeonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
