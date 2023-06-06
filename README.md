@@ -51,14 +51,14 @@ const 자기소개 = {
 
 <img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90-blue"/><span style="font-size: 5px">  이 언어는 좀 칩니다..</span>
 
-
+<hr/>
 
    **frontend :**
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/react--querty-ff4154.svg?style=flat-square&logo=react-query&logoColor=white"/>
 
-
+<hr/>
    **backend :**
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
