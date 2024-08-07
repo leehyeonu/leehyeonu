@@ -32,8 +32,13 @@
 
 <br>
 
-![](https://github.com/leehyeonu/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/leehyeonu/github-stats-transparent/blob/output/generated/languages.svg)
+### 🔭 I’m currently working on
+
+[![Hyeonu Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyeonu&hide=stars,contribs&count_private=true&show_icons=true&theme=tyokonight)](https://github.com/leehyeonu/github-readme-stats)
+
+### :muscle: I’m currently Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyeonu&layout=compact)](https://github.com/leehyeonu/github-readme-stats)
 
 
 </div>
