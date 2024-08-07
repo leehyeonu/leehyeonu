@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hyeonu%20Lee&reversal=false&textBg=false&animation=fadeIn&fontColor=5B99C2)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hyeonu%20Lee&reversal=false&textBg=false&animation=fadeIn&fontColor=E3FDFD)
 
 <h3 align="center">🛠 Stack 🛠</h3>
 <p align="center">
